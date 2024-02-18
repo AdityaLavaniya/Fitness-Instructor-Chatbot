@@ -17,7 +17,7 @@ The underlying Language Model used in this project is TinyLlama, which has been 
 - Python 3.6 or later
 - Install required libraries: `pip install -r requirements.txt`
 
-## If you encounter errors related to GPU on your local system, you can run the alternative `final.pybnb` script in your preferred Python environment.
+## If you encounter errors related to GPU on your local system, you can run the alternative `final.ipynb` script in your preferred Python environment.
 
 ## Running on Google Colab
 
